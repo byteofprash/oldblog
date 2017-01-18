@@ -10,9 +10,9 @@ port: 4000
 exclude: [  "README.md" ]
 
 # Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
+#markdown: kramdown
+#kramdown:
+#  input: GFM
 
 # Blog settings
 permalink: /:year/:month/:title/
