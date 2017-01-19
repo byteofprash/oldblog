@@ -11,8 +11,8 @@ exclude: [  "README.md" ]
 
 # Markdown
 markdown: kramdown
-#kramdown:
-#  input: GFM
+kramdown:
+  input: GFM
 
 # Blog settings
 permalink: /:year/:month/:title/
