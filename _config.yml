@@ -10,7 +10,7 @@ port: 4000
 exclude: [  "README.md" ]
 
 # Markdown
-#markdown: kramdown
+markdown: kramdown
 #kramdown:
 #  input: GFM
 
