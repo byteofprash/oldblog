@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
-<<<<<<< HEAD
-=======
 title: Prashanth Swaminathan
 author: Prashanth Swaminathan
 description: "-___-"
@@ -18,4 +16,3 @@ kramdown:
 
 # Blog settings
 permalink: /:year/:month/:title/
->>>>>>> 26ba88f7579852ef8e6e891c071878cd98f5b48b
