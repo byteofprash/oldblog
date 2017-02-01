@@ -1,1 +1,21 @@
 theme: jekyll-theme-minimal
+<<<<<<< HEAD
+=======
+title: Prashanth Swaminathan
+author: Prashanth Swaminathan
+description: "-___-"
+url: byteofprash.github.io/blog/
+baseurl: ""
+
+# Build settings
+port: 4000
+exclude: [  "README.md" ]
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Blog settings
+permalink: /:year/:month/:title/
+>>>>>>> 26ba88f7579852ef8e6e891c071878cd98f5b48b
