@@ -1,21 +1,31 @@
-theme: jekyll-theme-minimal
-title: Prashanth Swaminathan
-author: Prashanth Swaminathan
-description: "Thinker and tinkerer"
-url: byteofprash.github.io/blog/
-baseurl: ""
+###########
+# site.title, site.url, site.author.name
 
-# Build settings
-port: 4000
-exclude: [  "README.md" ]
+title:   'byteofprash's blog'
+author:
+  name:  'Prashanth'
 
-# Markdown
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: /blog 
+url:  'byteofprash.github.io/blog/'
+
+
+########
+# more settings
+
 markdown: kramdown
-kramdown:
-  input: GFM
 
-# Blog settings
-permalink: /:title.md
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
 
 safe: true
 lsi: false
