@@ -15,7 +15,7 @@ kramdown:
   input: GFM
 
 # Blog settings
-permalink: /:title.html
+permalink: /:title.md
 
 safe: true
 lsi: false
