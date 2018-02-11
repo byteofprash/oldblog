@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 title: Prashanth Swaminathan
 author: Prashanth Swaminathan
 description: "Thinker and tinkerer"
@@ -14,7 +15,7 @@ kramdown:
   input: GFM
 
 # Blog settings
-#permalink: /:year/:month/:date/:title/
-permalink: /:year/:month/:date/:title/
+permalink: /:title.html
 
-theme: jekyll-theme-minimal
+safe: true
+lsi: false
