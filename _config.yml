@@ -17,3 +17,5 @@ kramdown:
 # Blog settings
 #permalink: /:year/:month/:date/:title/
 permalink: /:year/:month/:date/:title/
+
+theme: jekyll-theme-minimal
