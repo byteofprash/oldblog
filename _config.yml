@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: chibicode/duo
 title: Prashanth Swaminathan
 author: Prashanth Swaminathan
 description: "Thinker and tinkerer"
@@ -15,5 +15,5 @@ kramdown:
   input: GFM
 
 # Blog settings
-#permalink: /:year/:month/:title/
-permalink: /
+#permalink: /:year/:month/:date/:title/
+permalink: /:year/:month/:date/:title/
