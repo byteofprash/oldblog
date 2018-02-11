@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: chibicode/du
 title: Prashanth Swaminathan
 author: Prashanth Swaminathan
 description: "-___-"
